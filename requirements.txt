@@ -1,0 +1,6 @@
+lemma-sdk
+groq
+python-dotenv
+streamlit
+pandas
+requests
